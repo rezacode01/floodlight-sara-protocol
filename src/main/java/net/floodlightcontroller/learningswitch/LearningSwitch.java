@@ -604,8 +604,8 @@ public class LearningSwitch
             Map<DatapathId, IOFSwitch> switches = iofSwitchService.getAllSwitchMap();
 
             log.info("###############################################################################################");
-
             log.info("###############################################################################################");
+
             showSwitches = false;
         }
 
